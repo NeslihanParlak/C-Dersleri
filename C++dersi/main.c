@@ -33,16 +33,7 @@
 
 
 
-/*Klavyeden girilen doğum yılı ve günümüz yılı bilgilerine göre yaşı hesaplayıp ekrana yazdıran C programını yazın.
-int main() {
-    int yas, dogumYili;
-    int günümüzYili = 2023;
-    printf("Doğum yılını girin: ");
-    scanf("%d", &dogumYili);
-    yas = günümüzYili - dogumYili;
-    printf("yaş: %d", yas);
 
-}*/
 
 
 /*Klavyeden girilen 4 haneli tamsayıyı çözümleyen C programını yazın
